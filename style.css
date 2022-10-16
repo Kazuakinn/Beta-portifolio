@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    background-color: #000000;
+    color: white;
+}
+.btn-link{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+
+strong{
+    color: green;
+}
+
+
+.img-perfil{
+    /* minha foto de perfil*/
+    position: absolute;
+    left: 60%;
+    top: 30%;
+    border: solid green;
+    border-radius: 40px;
+    box-shadow: 5px 10px;
+}
+
+table{
+    
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    border: 5px solid green;
+    padding: none;
+    border-radius: 20px;
+    
+}
+
+.insta-icon{
+    width: 70px;
+    
+    
+}
+.git-icon{
+    width: 70px;
+    
+   
+}
+.ld-icon{
+     width: 70px;
+
+}
+
+th{
+    font-size: 20px;
+}
+
+img:hover {
+    color: 	#000000;
+    box-shadow: 0px 15px 20px rgba(115, 255, 1, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+
+p{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+font-size: 60px;
+}
+
+
+
+
+/* barra Menu  */
+
+#barra-menu{
+    margin: 0;
+}
+#barra-menu ul {
+    margin: 0;
+    background-color: green;
+    list-style: none;
+     }
+
+#barra-menu ul li {
+display: inline;
+ }
+ #barra-menu ul li a{
+    padding: 30px 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+#barra-menu ul li a:hover {
+color: 	#000000;
+}
+
+thead{
+    border: 1px solid white;
+}

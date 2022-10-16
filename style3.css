@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    background-color: #000000;
+    color: white;
+}
+.btn-link{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+
+table{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    border: 5px solid green;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.html-icon{
+    width: 200px;    
+}
+.css-icon{
+    width: 200px; 
+}
+.jv-icon{
+    filter: grayscale(1);
+     width: 200px;
+}
+.corel-icon{
+    width: 200px;    
+}
+.phs-icon{
+    width: 200px; 
+}
+.lust-icon{
+    filter: grayscale(1);
+     width: 200px;
+}
+
+img:hover {
+    color: 	#000000;
+    box-shadow: 0px 15px 20px rgba(115, 255, 1, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+h1{
+    position: absolute;
+    left: 25%;
+    top: 10%;
+font-size: 100px;
+color: green;
+}
+
+
+/* barra Menu  */
+#barra-menu{
+    margin: 0;
+}
+#barra-menu ul {
+    margin: 0;
+    background-color: green;
+    list-style: none;
+     }
+
+#barra-menu ul li {
+display: inline;
+ }
+ #barra-menu ul li a{
+    padding: 30px 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+#barra-menu ul li a:hover {
+color: 	#000000;
+}
+
